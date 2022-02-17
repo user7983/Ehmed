@@ -1,0 +1,27 @@
+.card{
+    margin: 10px !important;
+}
+
+
+
+.meqaleler>img{
+
+    max-width: 50%;
+    margin: 20px 0;
+
+}
+
+.gallery{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.gallery>img{
+    width: 400px;
+    margin: 10px;
+}
+
+footer{
+    padding: 10px;
+    color: white;
+}
